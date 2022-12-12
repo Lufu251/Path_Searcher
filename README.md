@@ -1,3 +1,3 @@
 # Path_Searcher
 
-class to search for a folder drom the executable directory
+Will search for a folder starting from the executable folder.
